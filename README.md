@@ -20,7 +20,7 @@
 
   <br><br>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasping" alt="fasping" /></a> </p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasping&show_icons=true&locale=en&layout=compact" alt="fasping" /></p>
   ##
  
 <div> 
