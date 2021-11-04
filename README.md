@@ -12,7 +12,7 @@
   <img align="center" alt="Nando-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nando-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Nando-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  ![Alt Text](https://cdn.dribbble.com/users/1060753/screenshots/4017263/bb8_final.gif)
+  
   <img src="https://cdn.dribbble.com/users/1060753/screenshots/4017263/bb8_final.gif" width="40" height="40" />
 </div>
   
