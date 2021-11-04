@@ -5,7 +5,7 @@
   <br><br>
   <div align="center">
   <a href="https://github.com/Fasping">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fasping&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fasping&show_icons=true&locale=en"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasping&layout=compact&langs_count=7&theme=dracula"/>
 </div>
     <br><br>
@@ -20,8 +20,7 @@
 
   <br><br>
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasping&show_icons=true&locale=en" alt="fasping" /></p>
- 
+  
 <div> 
   <a href = "mailto:nandocasesgarcia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandocases94" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
