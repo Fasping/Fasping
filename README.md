@@ -18,7 +18,9 @@
   <img align="center" alt="Nando-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
 
+  <br><br>
   
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasping" alt="fasping" /></a> </p>
   ##
  
 <div> 
