@@ -13,6 +13,13 @@
   <img align="center" alt="Nando-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Nando-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
+  
+    <img align="center" alt="Nando-Git" height="30" width="40" src="https://giphy.com/embed/lBm4rgtyIPJmywXzLW">
+  <img align="right" alt="Nando-pic" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/processing-coding-proc-lBm4rgtyIPJmywXzLW">
+</div>
+  
+  <iframe src="https://giphy.com/embed/lBm4rgtyIPJmywXzLW" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/processing-coding-proc-lBm4rgtyIPJmywXzLW">via GIPHY</a></p>
+  
  ![](https://giphy.com/embed/lBm4rgtyIPJmywXzLW)
 </div>
   
