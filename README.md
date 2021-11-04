@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Nando Cases</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  I'm Nando Cases</h1>
 <div align="center">
   <a href="https://github.com/Fasping">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fasping&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
