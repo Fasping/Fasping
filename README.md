@@ -1,6 +1,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  I'm Nando Cases</h1>
 <div style="display: inline_block"><br>
   
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasping&label=Profile%20views&color=0e75b6&style=flat" alt="fasping" /> </p>
+  <br><br>
   <div align="center">
   <a href="https://github.com/Fasping">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fasping&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
