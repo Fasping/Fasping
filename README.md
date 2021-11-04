@@ -10,6 +10,8 @@
   <img align="center" alt="Nando-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Nando-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
+  
+  
   <div align="center">
   <a href="https://github.com/Fasping">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fasping&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
