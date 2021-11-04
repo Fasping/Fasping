@@ -20,8 +20,7 @@
 
   <br><br>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasping&show_icons=true&locale=en&layout=compact" alt="fasping" /></p>
-  ##
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fasping&show_icons=true&locale=en" alt="fasping" /></p>
  
 <div> 
   <a href = "mailto:nandocasesgarcia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
