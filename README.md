@@ -22,10 +22,10 @@
   <a href = "mailto:nandocasesgarcia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandocases94" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <br><br>
-  
+  [![f09620a77deb456e82968e482130ef0f.png](https://i.postimg.cc/NfrWZ0vT/f09620a77deb456e82968e482130ef0f.png)](https://postimg.cc/VdmGCm6L)
   <br><br>
  
   ![Snake animation](https://github.com/Fasping/Fasping/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<
+
