@@ -12,11 +12,6 @@
   <br><br>
   <div align="center"> 
   <a href="https://github.com/Fasping">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fasping&show_icons=true&locale=en&theme=ocean_dark"/>
-  <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasping&layout=compact&langs_count=7&theme=dracula"/>
- </div>
-  <br><br>
   
   <img alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' />  
 
