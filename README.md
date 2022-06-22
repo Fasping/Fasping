@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">  I'm Nando </h1>
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">
+<h1 align="center">Hi, I'm Nando </h1>
   
 <div align="center" style="display: inline_block"><br>  
   <img align="center" alt="Nando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
