@@ -28,3 +28,21 @@
     </div>
     <br><br>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=fasping&label=Profile%20views&color=0e75b6&style=flat" alt="fasping" /> </p>
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fasping&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fasping&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fasping&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Fasping&icon=2&color=12)](https://visitcount.itsvg.in)
+
