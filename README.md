@@ -29,9 +29,7 @@
     <br><br>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=fasping&label=Profile%20views&color=0e75b6&style=flat" alt="fasping" /> </p>
 
+    
+    
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=Fasping&icon=2&color=12)](https://visitcount.itsvg.in)
-
