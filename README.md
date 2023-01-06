@@ -16,8 +16,6 @@
   
   <img alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' />  
 
-  
-  ![Snake animation](https://github.com/Fasping/Fasping/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   <div align="center">
