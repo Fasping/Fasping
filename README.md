@@ -3,13 +3,12 @@
   
 <h3 align="center">I am a Frontend developer who likes to craft solid and scalable frontend products with great user experience 🦄</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasping" alt="fasping" /></a> </p>
 
 - 🔭 I’m currently working in my free time on [OpenSource Projects](https://github.com/midudev/kings-league-project)
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Videogame and music!**
+- 💬 Ask me about **Videogame and Music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
