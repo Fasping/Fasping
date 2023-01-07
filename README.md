@@ -14,7 +14,7 @@
   <div align="center"> 
   <a href="https://github.com/Fasping">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fasping)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fasping&theme=onedark)](https://github.com/Fasping/github-profile-trophy)
 
   
   <img alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' />  
