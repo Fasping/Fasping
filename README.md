@@ -1,25 +1,21 @@
                    
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Nando </h1>
-<br><br>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-  <br><br>
-<h3 align="center">I am a Frontend developer who likes to craft solid and scalable frontend products with great user experience</h3>
 
-
-- 🔭 I’m currently working in my free time on [OpenSource Projects](https://github.com/midudev/kings-league-project)
-
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **Videogame and Music!**
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fasping&show_icons=true&locale=en&layout=compact" alt="fasping" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fasping&" alt="fasping" /></p>
+<br>
 
   
-  <img alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' />  
+
+<h3 align="center">I am a Frontend developer who likes to craft solid and scalable frontend products with great user experience</h3>
+<br><br>
+<p align="center"> 🔭 I’m currently working at: [ComeOn Group](https://www.comeon-group.com/)</p>
+<p align="center">🌱 I’m currently learning: Typescript 💙</p>
+<p align="center">🌱 I’m currently learning: Typescript 💙</p>
+<p align="center"> 💬 Ask me about Videogame and Music!</p>
+<p align="center"> ⚡ Fun fact : I enjoy climbing and surfing 🏄‍♂️</p>
+
+
+<br><br> 
+  <p align="center"> <img align="center" alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' /> </p> 
  <br><br>
  <br><br>
  
