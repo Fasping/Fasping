@@ -9,7 +9,6 @@
 <br><br>
 <p align="center"> 🔭 I’m currently working at: https://www.comeon-group.com/</p>
 <p align="center">🌱 I’m currently learning: Typescript 💙</p>
-<p align="center">🌱 I’m currently learning: Typescript 💙</p>
 <p align="center"> 💬 Ask me about Videogame and Music!</p>
 <p align="center"> ⚡ Fun fact : I enjoy climbing and surfing 🏄‍♂️</p>
 
