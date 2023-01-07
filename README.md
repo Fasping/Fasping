@@ -13,6 +13,9 @@
   <br><br>
   <div align="center"> 
   <a href="https://github.com/Fasping">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fasping)](https://git.io/streak-stats)
+
   
   <img alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' />  
  <br><br>
