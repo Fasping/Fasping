@@ -1,7 +1,7 @@
                    
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Nando </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Nando </h1>
   
-<h3 align="center">I am a Frontend developer who likes to craft solid and scalable frontend products with great user experience 🦄</h3>
+<h3 align="center">I am a Frontend developer who likes to craft solid and scalable frontend products with great user experience</h3>
 
 
 - 🔭 I’m currently working in my free time on [OpenSource Projects](https://github.com/midudev/kings-league-project)
