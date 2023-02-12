@@ -9,7 +9,7 @@
 <p align="center"> ⚡ Fun fact: I enjoy climb, padel, surfing and Donuts 🏄‍♂️</p>
 
 <br><br> 
-  <p align="center"> <img align="center" alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' /> </p> 
+  <p align="center"> <img align="center" alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' /></p> 
  <br><br>
  
 </div>
