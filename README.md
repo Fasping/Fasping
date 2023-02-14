@@ -6,7 +6,7 @@
 <br><br>
 <p align="center">🌱 I’m currently learning: Typescript 💙</p>
 <p align="center"> 💬 Ask me about Videogame and Music!</p>
-<p align="center"> ⚡ Fun fact: I enjoy climb, padel, surfing and Donuts 🏄‍♂️</p>
+<p align="center"> ⚡ Fun fact: I enjoy climb, padel, surfing and music 🏄‍♂️</p>
 
 <br><br> 
   <p align="center"> <img align="center" alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' /></p> 
