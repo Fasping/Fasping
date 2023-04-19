@@ -7,7 +7,7 @@ Hi 👋  I'm Nando
 <h3 align="center">I am a Frontend developer who likes to craft solid and scalable frontend products with great user experience .</h3>
 <br><br>
 <p align="center">🌱 I’m currently learning: Typescript 💙</p>
-<p align="center"> 💬 Ask me about Videogame and Music</p>
+<p align="center"> 💬 Ask me about Videogame and Music ✨</p>
 <p align="center"> ⚡ Fun fact: I enjoy climbing and surfing 🏄‍♂️</p>
 
 <br><br> 
