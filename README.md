@@ -3,7 +3,7 @@ Hi 👋  I'm Nando
 </h1>
 <br>
 
-<h3 align="center">I am a full-stack developer who specializes in frontend development with a passion for creating solid, scalable products with excellent user experiences. 
+<h3 align="center">I am a frontend developer with a passion for creating solid, scalable products with excellent user experiences. 
 </h3>
 <br>
 <p align="center">🌱 I’m currently learning: Typescript 💙</p>
