@@ -9,10 +9,6 @@ Hi 👋  I'm Nando
 <p align="center">🌱 I’m currently learning: C# and Scuba Diving💙</p>
 <p align="center"> 💬 Ask me about Videogame and Music ✨</p>
 <p align="center"> ⚡ Fun fact: I enjoy climbing and surfing 🏄‍♂️</p>
-
-<br><br> 
-  <p align="center"> <img align="center" alt='CodeWars' src='https://www.codewars.com/users/Fasping/badges/large' /></p> 
- <br><br>
  
 </div>
   <div align="center">
