@@ -6,7 +6,7 @@ Hi 👋  I'm Nando
 <h3 align="center">I am a frontend developer with a passion for creating solid, scalable products with excellent user experiences. 
 </h3>
 <br>
-<p align="center">🌱 I’m currently learning: C# 💙</p>
+<p align="center">🌱 I’m currently learning Surfing 💙</p>
 <p align="center"> 💬 Ask me about Videogame and Music ✨</p>
 <p align="center"> ⚡ Fun fact: I enjoy climbing and surfing 🏄‍♂️</p>
  
